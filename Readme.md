@@ -1,4 +1,4 @@
-# 2021分散式系統期末專案
+# 以IPFS儲存架構實作自動化部署與發行NFT系統
 
 ## Backend && Frontend
 
